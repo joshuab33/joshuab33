@@ -23,6 +23,7 @@ Here are a few of the projects I've worked on:
 - Next.js
 - HTTP Requests
 - Data Manipulation
+- AST Parsing and Manipulation
 
 ## Contact
 

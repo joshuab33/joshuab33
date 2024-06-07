@@ -14,6 +14,7 @@ Here are a few of the projects I've worked on:
 
 ## Skills
 
+- Rails
 - JavaScript
 - TypeScript
 - Python
